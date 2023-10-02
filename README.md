@@ -1,1 +1,2 @@
-# My Template Rust Repository
+# Rust Chat App
+
